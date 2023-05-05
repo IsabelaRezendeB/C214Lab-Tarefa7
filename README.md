@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esse repositório consiste na implementação de APIs REST de um CRUD básico de carro e teste. Também está incluso testes unitários e mock.
+Esse repositório consiste na implementação de APIs REST de um CRUD básico de carros. Também está incluso testes unitários e mock.
 
 ## Rotas
 
