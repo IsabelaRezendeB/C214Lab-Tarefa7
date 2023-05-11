@@ -1,5 +1,7 @@
 # C214 Lab - Tarefa 7
 
+![example workflow](https://github.com/IsabelaRezendeB/C214Lab-Tarefa7/actions/workflows/node.js.yml/badge.svg)
+
 ## Descrição
 
 Esse repositório consiste na implementação de APIs REST de um CRUD básico de carros. Também está incluso testes unitários e mock.
